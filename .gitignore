@@ -1,3 +1,15 @@
+# =========================
+# Project Files
+# =========================
+data/*
+logs/*
+src/accounts.R
+
+
+# =========================
+# Generated gitignore
+# =========================
+
 # History files
 .Rhistory
 .Rapp.history
